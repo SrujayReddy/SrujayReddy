@@ -24,7 +24,7 @@
 
 ## 🚀 Welcome to My Code Cosmos
 
-I'm not your typical coder—I build scalable systems and craft AI-driven solutions that push the boundaries of innovation. I believe that technology should be as bold as our ideas.  
+I'm not your typical coder. I build scalable systems and craft AI-driven solutions that push the boundaries of innovation. I believe that technology should be as bold as our ideas.  
 Whether it's diving into distributed systems or reimagining the future with artificial intelligence, I’m here to make an impact.
 
 ### What Fuels My Passion?
@@ -63,7 +63,7 @@ Whether it's diving into distributed systems or reimagining the future with arti
 
 ## 🌌 My Journey in Code
 
-I like to think of my work as a voyage through a vast universe of code—where every challenge is a new star to explore.  
+I like to think of my work as a voyage through a vast universe of code, where every challenge is a new star to explore.  
 Instead of sticking to the beaten path, I embrace creative, out-of-the-box thinking.  
 I love to experiment, break the mold, and design systems that not only work but redefine what’s possible.
 
